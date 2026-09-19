@@ -1,0 +1,10 @@
+{
+  "name": "Shireenzs Apki Sakhi",
+  "description": "Caring daily AI companion and health guardian for senior citizens, accessible across smart glasses, watch, and phone with real-time pulse monitoring, gentle voice check-ins, medicine reminders, and emergency alerts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
